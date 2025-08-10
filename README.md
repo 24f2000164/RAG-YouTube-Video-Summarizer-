@@ -9,7 +9,7 @@
 
 This project takes a **YouTube video** → extracts its transcript → breaks it into chunks → stores embeddings in a **FAISS** vector store → retrieves relevant content based on a query → and finally uses an **LLM** to answer your question **only from the transcript**.
 
-![Workflow](https://i.imgur.com/FqJFlJe.png)
+ 
 
 ---
 
